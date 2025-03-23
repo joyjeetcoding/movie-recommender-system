@@ -4,6 +4,12 @@ My first ML Project! 🚀
 
 This system takes a movie name as input and recommends **five** similar movies based on matching tags such as **Directors, Actors, and Genre.**
 
+## 📂 Datasets & Libraries Used
+
+### 📌 Libraries
+- **Pandas** → For data manipulation and preprocessing
+- **Scikit-learn** → For vectorization and cosine similarity calculation
+
 ## 📂 Datasets
 There are two datasets downloaded from **Kaggle.**
 

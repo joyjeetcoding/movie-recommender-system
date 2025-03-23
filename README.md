@@ -72,6 +72,7 @@ There are two datasets downloaded from **Kaggle.**
 - Function takes a **movie name as input** and suggests similar movies.
 
 ## 🌐 Frontend Integration
+- Execute the `pickle.dump` command to generate the required `.pkl` files.
 - Sent **movie data** to the frontend using `pickle`.
 - Saved two `.pkl` files:
   1. **Processed movie data**
